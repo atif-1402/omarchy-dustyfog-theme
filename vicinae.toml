@@ -1,0 +1,33 @@
+[meta]
+version = 1
+name = "Omarchy"
+description = "Follow your Omarchy system theme."
+variant = "dark"
+inherits = "vicinae-dark"
+icon = "/home/atif/.local/share/omarchy/icon.png"
+
+[colors.core]
+background = "#1b1815"
+foreground = "#d8d0c7"
+secondary_background = "#221f1c"
+border = "#302c27"
+accent = "#8b7360"
+
+[colors.list.item.hover]
+background = "#2a2622"
+foreground = "#d8d0c7"
+
+[colors.list.item.selection]
+background = "#2f2b26"
+foreground = "#d8d0c7"
+
+[colors.accents]
+blue = "#8b7360"      # warm brown (used instead of blue)
+green = "#9d8e7f"     # muted warm tone
+magenta = "#bca896"   # soft dusty highlight
+orange = "#c3a78c"    # warm fog glow
+purple = "#b7a18d"    # muted warm haze
+red = "#9a7964"       # warm earthy red
+yellow = "#d3c5b8"    # pale warm light
+cyan = "#c1b4a6"      # soft fog-grey
+

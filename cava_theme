@@ -1,0 +1,12 @@
+[color]
+gradient = 1
+gradient_count = 8
+gradient_color_1 = '#6f5b49'   # deep warm shadow
+gradient_color_2 = '#8a7460'   # dusty warm mid-tone
+gradient_color_3 = '#a28f7c'   # soft brown-grey
+gradient_color_4 = '#bca896'   # fog-lit warm highlight
+gradient_color_5 = '#d3c5b8'   # pale warm light
+gradient_color_6 = '#e4dacf'   # misty bright haze
+gradient_color_7 = '#cdbdad'   # soft warm reflection
+gradient_color_8 = '#8a7460'   # fade back to mid-tone
+
